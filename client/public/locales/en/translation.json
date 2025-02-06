@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Project Hub",
+    "menu": {
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "about": "About",
+      "contact": "Contact",
+      "main": "Main",
+      "profile": "Profile",
+      "signIn": "Sign In",
+      "logout": "Logout"
+    },
+    "messages": {
+      "logoutSuccess": "Logout successful"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} My E-Commerce. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "errorBoundary": {
+    "title": "Something went wrong.",
+    "message": "An unexpected error occurred.",
+    "retry": "Try Again"
+  },
+  "signIn": {
+    "title": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "emailRequired": "Email is required",
+    "invalidEmail": "Invalid email format",
+    "passwordRequired": "Password is required",
+    "signInButton": "Sign In",
+    "signingIn": "Signing In...",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "loginSuccess": "Successfully logged in!",
+    "loginFailed": "Failed to login"
+  },
+  "signUp": {
+    "title": "Create an Account",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "invalidEmail": "Invalid email format",
+    "passwordRequired": "Password is required",
+    "signUpButton": "Sign Up",
+    "signingUp": "Signing Up...",
+    "error": "An error occurred during registration. Please try again.",
+    "loginLink": "Already have an account?",
+    "login": "Sign In"
+  },
+  "language": "English"
+}

@@ -1,0 +1,61 @@
+{
+  "header": {
+    "title": "Mi Encabezado",
+    "menu": {
+      "home": "Inicio",
+      "dashboard": "Mis Currículums",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "main": "Principal",
+      "profile": "Perfil",
+      "signIn": "Iniciar Sesión",
+      "logout": "Cerrar Sesión"
+    },
+    "messages": {
+      "logoutSuccess": "Cierre de sesión exitoso"
+    },
+    "language": "Idioma"
+  },
+  "footer": {
+    "copyright": "© {{year}} Mi Comercio Electrónico. Todos los derechos reservados.",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad"
+  },
+  "errorBoundary": {
+    "title": "Algo salió mal.",
+    "message": "Ocurrió un error inesperado.",
+    "retry": "Intentar de nuevo"
+  },
+  "signIn": {
+    "title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "emailRequired": "Se requiere correo electrónico",
+    "invalidEmail": "Formato de correo electrónico inválido",
+    "passwordRequired": "Se requiere contraseña",
+    "signInButton": "Iniciar sesión",
+    "signingIn": "Iniciando sesión...",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes una cuenta?",
+    "signUp": "Regístrate",
+    "loginSuccess": "¡Inicio de sesión exitoso!",
+    "loginFailed": "Error al iniciar sesión"
+  },
+  "signUp": {
+    "title": "Crear una cuenta",
+    "fullName": "Nombre completo",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "passwordMinLength": "La contraseña debe tener al menos 6 caracteres",
+    "nameRequired": "El nombre es obligatorio",
+    "emailRequired": "El correo electrónico es obligatorio",
+    "invalidEmail": "Formato de correo electrónico inválido",
+    "passwordRequired": "La contraseña es obligatoria",
+    "signUpButton": "Registrarse",
+    "signingUp": "Registrando...",
+    "error": "Ocurrió un error durante el registro. Por favor, inténtalo de nuevo.",
+    "loginLink": "¿Ya tienes una cuenta?",
+    "login": "Iniciar sesión"
+  },
+  "language": "Spanish"
+}

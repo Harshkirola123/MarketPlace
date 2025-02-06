@@ -1,0 +1,61 @@
+{
+  "header": {
+    "title": "मेरा हैडर",
+    "menu": {
+      "home": "होम",
+      "dashboard": "मेरे रिज़्यूमे",
+      "about": "के बारे में",
+      "contact": "संपर्क",
+      "main": "मुख्य",
+      "profile": "प्रोफ़ाइल",
+      "signIn": "साइन इन करें",
+      "logout": "लॉगआउट"
+    },
+    "messages": {
+      "logoutSuccess": "लॉगआउट सफल"
+    },
+    "language": "भाषा"
+  },
+  "footer": {
+    "copyright": "© {{year}} मेरा ई-कॉमर्स। सर्वाधिकार सुरक्षित।",
+    "terms": "सेवा की शर्तें",
+    "privacy": "गोपनीयता नीति"
+  },
+  "errorBoundary": {
+    "title": "कुछ गलत हो गया।",
+    "message": "एक अप्रत्याशित त्रुटि हुई।",
+    "retry": "फिर से प्रयास करें"
+  },
+  "signIn": {
+    "title": "साइन इन करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "emailRequired": "ईमेल आवश्यक है",
+    "invalidEmail": "अवैध ईमेल प्रारूप",
+    "passwordRequired": "पासवर्ड आवश्यक है",
+    "signInButton": "साइन इन करें",
+    "signingIn": "साइन इन किया जा रहा है...",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "noAccount": "क्या आपके पास खाता नहीं है?",
+    "signUp": "साइन अप करें",
+    "loginSuccess": "सफलतापूर्वक लॉगिन हुआ!",
+    "loginFailed": "लॉगिन में विफल"
+  },
+  "signUp": {
+    "title": "एक खाता बनाएं",
+    "fullName": "पूरा नाम",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "passwordMinLength": "पासवर्ड कम से कम 6 वर्ण का होना चाहिए",
+    "nameRequired": "नाम आवश्यक है",
+    "emailRequired": "ईमेल आवश्यक है",
+    "invalidEmail": "अवैध ईमेल प्रारूप",
+    "passwordRequired": "पासवर्ड आवश्यक है",
+    "signUpButton": "साइन अप करें",
+    "signingUp": "साइन अप किया जा रहा है...",
+    "error": "रजिस्ट्रेशन के दौरान एक त्रुटि हुई। कृपया पुनः प्रयास करें।",
+    "loginLink": "क्या आपके पास पहले से खाता है?",
+    "login": "साइन इन करें"
+  },
+  "language": "Hindi"
+}
